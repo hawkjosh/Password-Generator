@@ -10,4 +10,4 @@ In this challenge, I updated the provided source code (most specifically, the ja
 
 ## Link
 
-To view the deployed website, [CLICK HERE](https://hawkjosh.github.io/module3-assignment/).
+To view the deployed website, [CLICK HERE](https://hawkjosh.github.io/module3-password-generator-challenge/).
